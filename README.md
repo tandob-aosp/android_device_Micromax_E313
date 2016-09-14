@@ -13,13 +13,13 @@
 
 * Compilation
 
-        # repo init -u git://github.com/tandob-mtk/android.git -b cm-13.0-mt6592
+        # repo init -u git://github.com/s0m-aosp/platform_manifest.git -b mm6.0
         
         # repo sync -j1 -f --force-sync --no-clone-bundle
         
         # source build/envsetup.sh
         
-        # brunch cm_E313-userdebug
+        # brunch slim_E313-userdebug
 
 # MTK
 
